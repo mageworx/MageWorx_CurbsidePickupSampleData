@@ -1,0 +1,2 @@
+name,methods,is_active,sort_order,future_days_limit,working_days,quotes_scope,shipping_methods_choice_limiter
+"Curbside pickup","mageworxpickup_mageworxpickup",1,1,10,"sunday,monday,tuesday,wednesday,thursday,friday,saturday",0,1

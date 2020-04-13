@@ -1,0 +1,2 @@
+code,name,store_ids,is_active,country_id,region,city,address,postcode,latitude,longitude
+"curbside-store","Curbside Pickup Store",0,1,"US","New York","New York","Cherry str 123","11782","40.71052440638800","-73.99525899939600"

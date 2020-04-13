@@ -1,0 +1,11 @@
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+#delivery-date-container h3 {
+    display: none;
+}
+
+.mw-dd__date, .mw-dd__time {
+    margin-top: -20px;
+}

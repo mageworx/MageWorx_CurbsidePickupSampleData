@@ -1,0 +1,22 @@
+{
+    "name": "mageworx/module-curbside-pickup-sampledata",
+    "description": "Curbside Pickup Sample Data",
+    "require": {
+        "magento/framework" : ">=102.0.0 <103",
+        "mageworx/module-nocontactdelivery": ">=1.0.0",
+        "mageworx/module-deliverydate": "1.8.6",
+        "mageworx/module-locations": "1.6.2"
+    },
+    "type": "magento2-module",
+    "version": "0.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "MageWorx\\CurbsidePickupSampleData\\": ""
+        }
+    }
+}
