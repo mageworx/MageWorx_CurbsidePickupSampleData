@@ -1,14 +1,18 @@
 #  MageWorx Curbside Pickup SampleData for Magento 2
 
-The extension allows you to add sample data to your Magento 2 store for creating Curbside Pickup with MageWorx Store Locator, MageWorx NoContact Delivery and MageWorx Delivery Date extension.
+This sample data creates the delivery option for Curbside pickup and renames the setting to enable the Curbside pickup method on the front-end. It requires the following extensions to be installed:
+- [Store Locator, In-Store & Curbside Pickup](https://www.mageworx.com/magento-2-store-locator-and-pickup.html)
+- [Delivery Date (Free for orders with “Store Locator, In-Store & Curbside Pickup”)](https://www.mageworx.com/delivery-date-magento-2.html)
+- [No-Contact Delivery / Curbside Pickup (Free)](https://www.mageworx.com/magento-2-no-contact-delivery.html)
+
 ## Features
 
 **Add the 'Curbside Pickup' delivery option.**  
 **Add the default store for store locator.**  
-**Assign the ''Curbside Pickup' delivery option to Pickup shipping method.** 
+**Assign the 'Curbside Pickup' delivery option to Pickup shipping method.** 
 **Rename labels and descriptions in NoContact Delivery and Delivery Date extensions to Curbside Pickup.**
 
-## How to install No-contact Delivery for Magento 2
+## How to install Curbside Pickup SampleData for Magento 2
 
 ### Install via composer (recommend)
 Run the following command in Magento 2 root folder:
